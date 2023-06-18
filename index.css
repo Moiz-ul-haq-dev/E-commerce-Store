@@ -1,0 +1,22 @@
+body{
+    overflow-x: hidden;
+}
+.navbar{
+    background-color: #100F3D;
+    padding: 0%;
+}
+
+.navbtn button{
+    color: white;
+    background-color: #100F3D;
+    border: 1px white solid;
+    border-radius: 5px;
+    height: 40px;
+    width: 90px;
+    justify-content: center;
+}
+
+.navbtn button:hover{
+    background-color: white;
+    color: #100F3D;
+}
